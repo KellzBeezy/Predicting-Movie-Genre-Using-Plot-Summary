@@ -1,0 +1,9 @@
+
+
+TITLE:	Zero Days
+
+OVERVIEW:	Alex Gibney explores the phenomenon of Stuxnet, a self-replicating computer virus discovered in 2010 by international IT experts. Evidently commissioned by the US and Israeli governments, this malware was designed to specifically sabotage Iran’s nuclear programme. However, the complex computer worm ended up not only infecting its intended target but also spreading uncontrollably.
+
+RELEASE DATE:	08-07-2016		
+
+GENRE: Documentary
